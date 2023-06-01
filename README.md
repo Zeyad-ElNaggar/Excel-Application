@@ -1,2 +1,2 @@
 # Excel-Application
-This project prints excel files info inside the console and does some operations on the data.
+This project prints info of countries and its states data that are stored in excel file.
